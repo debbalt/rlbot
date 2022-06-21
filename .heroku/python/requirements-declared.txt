@@ -13,7 +13,7 @@ kiwisolver==1.0.1
 kombu==4.2.1
 MarkupSafe==1.0
 matplotlib==3.0.2
-numpy==1.15.4
+numpy==1.22.0
 pyparsing==2.3.0
 pyTelegramBotAPI==3.6.6
 python-dateutil==2.7.5
